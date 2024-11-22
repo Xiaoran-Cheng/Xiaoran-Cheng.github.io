@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a first-year Ph.D. student in the Department of Statistics at the Pennsylvania State University. I am working with Professor Sen Na on a AI4Sci project.
+I am a first-year Ph.D. student in the Department of Statistics at the Pennsylvania State University. I am working with Professor Sen Na on an AI4Sci project.
 
 ## Research Interests
 
