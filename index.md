@@ -16,4 +16,5 @@ I am a first-year Ph.D. student in the Department of Statistics at the Pennsylva
 
 - **[Sep. 2024]** Submitted paper to ICLR 2025.
 
-
+## Preprints
+- **Physics-Informed Neural Networks with Trust-Region Sequential Quadratic Programming** Xiaoran Cheng, Sen Na. ArXiv Pre-Print
