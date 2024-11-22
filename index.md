@@ -16,6 +16,4 @@ I am a first-year Ph.D. student in the Department of Statistics at the Pennsylva
 
 - **[Sep. 2024]** Submitted paper to ICLR 2025.
 
-{% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
